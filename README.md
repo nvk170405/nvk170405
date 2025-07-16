@@ -14,10 +14,13 @@
 
 ### 🔥 Stats at a Glance
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Navketan's GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nvk170405&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvk170405&theme=radical" alt="streak" />
 </p>
+
+
 
 ---
 
