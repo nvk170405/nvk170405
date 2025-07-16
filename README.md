@@ -1,44 +1,67 @@
+<!-- Profile Header Banner -->
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/assets/banner.gif" alt="Header Banner" style="border-radius:10px;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Navketan Singh</h1>
-<h3 align="center">Full-stack Developer | AI Enthusiast | SaaS Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Building+Finora+💸+SaaS+Finance+App;React+%7C+Supabase+%7C+Tailwind+%7C+Paddle+%F0%9F%9A%80" alt="Typing SVG" />
+  <b>A Full Stack Developer, SaaS Builder & Tech Enthusiast</b><br/>
+  <i>I love creating things that live on the internet 🌐</i>
 </p>
 
 ---
 
-### 🚀 Projects
-- 🔥 [**Finora**](https://github.com/nvk170405/finora): Full-stack SaaS finance tracker with subscription features
-- 🧠 AI voice journaling app (Next.js + Supabase + ShadCN)
-- 🗺️ Smart Campus Navigation System (React Native + ESP32 + GPS)
-
----
-
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Paddle](https://img.shields.io/badge/-Paddle-0080FF?logo=paddle&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-
----
-
-### 📊 GitHub Stats
+### 🔥 Stats at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvk170405&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvk170405&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Navketan's GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" height="150" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🛠️ Tech Stack & Tools
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,python,nodejs,firebase,supabase,postgres,mongodb,figma,vercel,vite,git,github,powershell" />
+</p>
 
 ---
 
-> ⚡ Currently building: Finora – a SaaS app to track transactions, analyze spending, and manage subscriptions.
+### 🚀 Featured Projects
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Finora** | Full-stack wallet dashboard with subscriptions, billing & analytics | Supabase · Paddle · React · Tailwind · ShadCN |
+| **Smart Campus Navigation** | IoT + GPS-based campus guide app | ESP32 · Ubidots · React Native · Google Maps API |
+| **Voice Journal AI** | SaaS journaling platform with tier-based access & AI prompts | Next.js · Supabase · ShadCN · Paddle Billing |
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Facts
+
+- 🔭 Currently building **Finora** – a modern finance dashboard for personal portfolio tracking  
+- 🌱 Learning advanced prompt engineering & AI integrations  
+- ⚡ Fun Fact: I make my apps **look great & work great**
+
+---
+
+
+
+> *"Be so good they can't ignore you." – Steve Martin*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
