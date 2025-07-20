@@ -38,7 +38,7 @@
 |--------|-------------|------|
 | **Finora** | Full-stack wallet dashboard with subscriptions, billing & analytics | Supabase · Paddle · React · Tailwind · ShadCN |
 | **Smart Campus Navigation** | IoT + GPS-based campus guide app | ESP32 · Ubidots · React Native · Google Maps API |
-| **Voice Journal AI** | SaaS journaling platform with tier-based access & AI prompts | Next.js · Supabase · ShadCN · Paddle Billing |
+| **Voxa AI** | SaaS journaling platform with tier-based access & AI prompts | Next.js · Supabase · ShadCN · Paddle Billing |
 
 ---
 
