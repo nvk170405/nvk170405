@@ -15,15 +15,16 @@
 ### 🔥 Stats at a Glance
 
 
-## 📊 GitHub Stats
 
-![Navketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=navketan-singh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navketan-singh&layout=compact&theme=radical)
+![Navketan's GitHub stats](https://github-readme-stats-godkingjay.vercel.app/api?username=navketan-singh&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navketan-singh&theme=radical)
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=navketan-singh&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=navketan-singh&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=navketan-singh&theme=dracula&margin-w=10&row=1)
+
 
 
 
