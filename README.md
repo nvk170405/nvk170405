@@ -15,11 +15,7 @@
 ### 🔥 Stats at a Glance
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=navketan-singh&show_icons=true&theme=radical)
-
-
-
-
+![GitHub Stats](https://raw.githubusercontent.com/nvk170405/github-assets/main/stats/github-stats-dark.png)
 
 
 ---
