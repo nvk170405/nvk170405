@@ -12,13 +12,6 @@
 
 ---
 
-### 🔥 Stats at a Glance
-
-
-![GitHub Stats](https://raw.githubusercontent.com/nvk170405/github-assets/main/stats/github-stats-dark.png)
-
-
----
 
 ### 🛠️ Tech Stack & Tools
 
